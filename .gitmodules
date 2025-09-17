@@ -1,3 +1,15 @@
 [submodule "third-party/pytorch"]
 	path = third-party/pytorch
 	url = git@github.com:pytorch/pytorch.git
+[submodule "third-party/vllm"]
+	path = third-party/vllm
+	url = git@github.com:vllm-project/vllm.git
+	branch = main
+[submodule "third-party/sglang"]
+	path = third-party/sglang
+	url = git@github.com:sgl-project/sglang.git
+	branch = main
+[submodule "third-party/tensorrt-llm"]
+	path = third-party/tensorrt-llm
+	url = git@github.com:NVIDIA/TensorRT-LLM.git
+	branch = main
