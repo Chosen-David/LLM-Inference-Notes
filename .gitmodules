@@ -1,6 +1,6 @@
 [submodule "third-party/pytorch"]
 	path = third-party/pytorch
-	url = git@github.com:pytorch/pytorch.git
+	url = https://github.com/pytorch/pytorch.git
 [submodule "third-party/vllm"]
 	path = third-party/vllm
 	url = git@github.com:vllm-project/vllm.git
